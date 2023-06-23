@@ -5,3 +5,8 @@
 # @[username] will be requested for review when someone
 # opens a pull request.
 *                   @hskrtich
+
+.circleci/            @ThirtyMadison/infra
+.github/              @ThirtyMadison/infra
+.infra/               @ThirtyMadison/infra
+atlantis.yaml         @ThirtyMadison/infra
